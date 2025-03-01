@@ -1,5 +1,7 @@
 # Mapping Dengue Hotspots and Analyzing the Impact of Weather, Sanitation and Water Supply on Disease Spread in the Philippines: A Multi-Year Analysis
-This project data analysis and data visualization was created in completion of CPE15 - Cognate/Professional Course 1.
+Dengue fever remains a significant public health concern in the Philippines, with outbreaks occurring annually and widespread transmission across various regions (Alcala & Varela, 2020). Despite ongoing efforts to control the disease, the persistence of dengue cases, especially in specific hotspot areas, continues to challenge public health management and response strategies (DOH, 2021). The geographical distribution of dengue cases is influenced by various factors, including weather conditions, sanitation, and water supply (Zhang & Chen, 2019). However, a comprehensive understanding of how these factors interact in different regions is lacking (Edillo & Santos, 2021). This study aims to map dengue hotspots in the Philippines and analyze the correlation between environmental factors, such as temperature, sanitation, and water supply, with the spread of dengue. By identifying high-risk areas and understanding the underlying drivers of disease transmission, the study seeks to provide actionable insights for improving public health preparedness, raising awareness, and enhancing prevention measures across the country (WHO, 2022).
+
+This project was created for completion of CPE15 - Cognate/Professional Course 1.
 
 Course Description:
 CPE15 - Cognate/Professional Course 1 (Lecture & Laboratory) introduces fundamental data analysis and visualization concepts using Python. 
